@@ -1,0 +1,4 @@
+1. Python 3.x
+2. Libraries:
+    transformers
+    pandas
